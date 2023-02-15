@@ -1,7 +1,7 @@
 
 # 🍌 Banana Serverless
 
-This repo gives a framework to serve ML models in production using simple HTTP servers.
+This repo provides a basic template for using jlondonobo's whisper-medium-pt on Banana's serverless GPU platform. Ready for 1-Click deploy. The original model can be found on Huggingface [here](https://huggingface.co/jlondonobo/whisper-medium-pt)
 
 # Quickstart
 **[Follow the quickstart guide in Banana's documentation to use this repo](https://docs.banana.dev/banana-docs/quickstart).** 
